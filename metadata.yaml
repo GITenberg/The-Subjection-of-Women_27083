@@ -1,0 +1,36 @@
+_repo: The-Subjection-of-Women_27083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: The Subjection of Women is an essay written by John Stuart Mill in 1869,
+  stating an argument in favor of equality between the sexes. At the time it was published,
+  this essay was an affront to European conventional norms of views on stature of
+  men and women. Mill credited his wife, Harriet Taylor Mill, with co-writing the
+  essay, although she is rarely credited on publications. The Subjection of Women"
+  offers both detailed argumentation and passionate eloquence in opposition to the
+  social and legal inequalities commonly imposed upon women by a patriarchal culture
+  ...
+gutenberg_issued: '2008-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Women''s rights'
+title: The Subjection of Women
+url: http://www.gutenberg.org/ebooks/27083
